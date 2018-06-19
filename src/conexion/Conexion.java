@@ -13,6 +13,7 @@ import java.util.logging.Logger;
 
 
 public class Conexion {
+    
     private String user;
     private String pass;
     private String driver;
